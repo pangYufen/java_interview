@@ -1,5 +1,7 @@
 # 深入理解虚拟机之垃圾回收
 
+参考：[搞定jvm垃圾回收](https://github.com/Snailclimb/JavaGuide/blob/master/Java%E7%9B%B8%E5%85%B3/%E6%90%9E%E5%AE%9AJVM%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95.md)
+
 **本节常见面试题（推荐带着问题阅读，问题答案在文中都有提到）：**
 
 如何判断对象是否死亡（两种方法）。
